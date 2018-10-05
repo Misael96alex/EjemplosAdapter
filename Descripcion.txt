@@ -1,0 +1,1 @@
+esta es una implementacion de los adapter en una aplicacion nativa en android
