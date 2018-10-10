@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Ejemplos Adapter</string>
+    <string name="nombreActiviti1">Actividad ListView</string>
+    <string name="alarma">Alarma</string>
+    <string-array name="alarmas">
+        <item>6:00 pm</item>
+        <item>5:00 am</item>
+        <item>5:30 am</item>
+        <item>12:30 pm</item>
+    </string-array>
 </resources>
