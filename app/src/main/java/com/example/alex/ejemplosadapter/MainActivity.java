@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
         Intent alarma = new Intent(getApplicationContext(),Alarma.class);
         startActivity(alarma);
     }
+    public void reproductor(View view){
+        Intent repro = new Intent(getApplicationContext(),Reproductor.class);
+        startActivity(repro);
+    }
 }

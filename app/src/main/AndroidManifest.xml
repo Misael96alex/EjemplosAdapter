@@ -19,7 +19,8 @@
         <activity
             android:name=".Alarma"
             android:label="@string/alarma" />
-        <activity android:name=".Reproductor"></activity>
+        <activity android:name=".Reproductor"
+            android:label="Reproductor"></activity>
     </application>
 
 </manifest>
